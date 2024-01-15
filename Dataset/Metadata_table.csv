@@ -1,0 +1,139 @@
+e_number;Samples_name;Sample_or_Control;Sample_type;Sampling_time;Cross_conditions;Washing;Medium
+e4048516033;GEM004;True sample;Gemmule;04. T0;G+EM;G+EM;NA
+e4048518436;GEM001;True sample;Gemmule;04. T0;G+EM;G+EM;NA
+e4048518439;GEM037;True sample;Cultivated sponge;05. T1;G-EM_F+PB;G-EM;F+PB
+e4048518440;GEM049;True sample;Cultivated sponge;06. T2;G-EM_F-PB;G-EM;F-PB
+e4048518442;GEM073;True sample;Cultivated sponge;07. T3;G+EM_F+PB;G+EM;F+PB
+e4048518443;GEM085;True sample;Cultivated sponge;08. T4;G+EM_F-PB;G+EM;F-PB
+e4048518448;GEM002;True sample;Gemmule;04. T0;G+EM;G+EM;NA
+e4048518449;GEM014;True sample;Cultivated sponge;05. T1;G+EM_F-PB;G+EM;F-PB
+e4048518450;GEM026;True sample;Cultivated sponge;05. T1;G-EM_F-PB;G-EM;F-PB
+e4048518451;GEM038;True sample;Cultivated sponge;05. T1;G-EM_F+PB;G-EM;F+PB
+e4048518452;GEM050;True sample;Cultivated sponge;06. T2;G-EM_F-PB;G-EM;F-PB
+e4048518453;GEM062;True sample;Cultivated sponge;06. T2;G-EM_F+PB;G-EM;F+PB
+e4048518454;GEM074;True sample;Cultivated sponge;07. T3;G+EM_F+PB;G+EM;F+PB
+e4048518455;GEM086;True sample;Cultivated sponge;08. T4;G+EM_F-PB;G+EM;F-PB
+e4048518456;GEM098;True sample;Cultivated sponge;08. T4;G+EM_F+PB;G+EM;F+PB
+e4048518457;GEM110;True sample;Cultivated sponge;09. T5;G+EM_F-PB;G+EM;F-PB
+e4048518458;GEM122;True sample;Cultivated sponge;09. T5;G+EM_F+PB;G+EM;F+PB
+e4048518459;GEM134;True sample;Cultivated sponge;10. T6;G+EM_F-PB;G+EM;F-PB
+e4048518460;GEM003;True sample;Gemmule;04. T0;G+EM;G+EM;NA
+e4048518462;GEM027;True sample;Cultivated sponge;05. T1;G-EM_F-PB;G-EM;F-PB
+e4048518463;GEM039;True sample;Cultivated sponge;05. T1;G-EM_F+PB;G-EM;F+PB
+e4048518464;GEM051;True sample;Cultivated sponge;06. T2;G-EM_F-PB;G-EM;F-PB
+e4048518465;GEM063;True sample;Cultivated sponge;06. T2;G-EM_F+PB;G-EM;F+PB
+e4048518466;GEM075;True sample;Cultivated sponge;07. T3;G+EM_F+PB;G+EM;F+PB
+e4048518467;GEM087;True sample;Cultivated sponge;08. T4;G+EM_F-PB;G+EM;F-PB
+e4048518468;GEM099;True sample;Cultivated sponge;08. T4;G+EM_F+PB;G+EM;F+PB
+e4048518469;GEM111;True sample;Cultivated sponge;09. T5;G+EM_F-PB;G+EM;F-PB
+e4048518470;GEM123;True sample;Cultivated sponge;09. T5;G+EM_F+PB;G+EM;F+PB
+e4048518471;GEM135;True sample;Cultivated sponge;10. T6;G+EM_F-PB;G+EM;F-PB
+e4048518473;GEM016;True sample;Cultivated sponge;05. T1;G+EM_F-PB;G+EM;F-PB
+e4048518474;GEM028;True sample;Cultivated sponge;05. T1;G-EM_F-PB;G-EM;F-PB
+e4048518484;GEM007;True sample;Gemmule;04. T0;G-EM;G-EM;NA
+e4048518486;GEM031;True sample;Cultivated sponge;05. T1;G+EM_F+PB;G+EM;F+PB
+e4048518488;GEM055;True sample;Cultivated sponge;06. T2;G+EM_F+PB;G+EM;F+PB
+e4048518489;GEM067;True sample;Cultivated sponge;07. T3;G-EM_F-PB;G-EM;F-PB
+e4048518491;GEM091;True sample;Cultivated sponge;08. T4;G-EM_F-PB;G-EM;F-PB
+e4048518492;GEM103;True sample;Cultivated sponge;08. T4;G-EM_F+PB;G-EM;F+PB
+e4048518493;GEM115;True sample;Cultivated sponge;09. T5;G-EM_F-PB;G-EM;F-PB
+e4048518494;GEM127;True sample;Cultivated sponge;09. T5;G-EM_F+PB;G-EM;F+PB
+e4048518495;GEM139;True sample;Cultivated sponge;10. T6;G-EM_F-PB;G-EM;F-PB
+e4048518497;GEM020;True sample;Cultivated sponge;06. T2;G+EM_F-PB;G+EM;F-PB
+e4048518498;GEM032;True sample;Cultivated sponge;05. T1;G+EM_F+PB;G+EM;F+PB
+e4048518499;GEM044;True sample;Cultivated sponge;07. T3;G+EM_F-PB;G+EM;F-PB
+e4048518509;GEM021;True sample;Cultivated sponge;06. T2;G+EM_F-PB;G+EM;F-PB
+e4048518510;GEM033;True sample;Cultivated sponge;05. T1;G+EM_F+PB;G+EM;F+PB
+e4048518511;GEM045;True sample;Cultivated sponge;07. T3;G+EM_F-PB;G+EM;F-PB
+e4048518512;GEM057;True sample;Cultivated sponge;06. T2;G+EM_F+PB;G+EM;F+PB
+e4048518513;GEM069;True sample;Cultivated sponge;07. T3;G-EM_F-PB;G-EM;F-PB
+e4048518514;GEM081;True sample;Cultivated sponge;07. T3;G-EM_F+PB;G-EM;F+PB
+e4048518515;GEM093;True sample;Cultivated sponge;08. T4;G-EM_F-PB;G-EM;F-PB
+e4048518516;GEM105;True sample;Cultivated sponge;08. T4;G-EM_F+PB;G-EM;F+PB
+e4048518517;GEM117;True sample;Cultivated sponge;09. T5;G-EM_F-PB;G-EM;F-PB
+e4048518518;GEM129;True sample;Cultivated sponge;09. T5;G-EM_F+PB;G-EM;F+PB
+e4048518520;GEM010;True sample;Gemmule;04. T0;G-EM;G-EM;NA
+e4048518521;GEM022;True sample;Cultivated sponge;06. T2;G+EM_F-PB;G+EM;F-PB
+e4048518522;GEM034;True sample;Cultivated sponge;05. T1;G+EM_F+PB;G+EM;F+PB
+e4048518523;GEM046;True sample;Cultivated sponge;07. T3;G+EM_F-PB;G+EM;F-PB
+e4048518524;GEM058;True sample;Cultivated sponge;06. T2;G+EM_F+PB;G+EM;F+PB
+e4048518525;GEM070;True sample;Cultivated sponge;07. T3;G-EM_F-PB;G-EM;F-PB
+e4048518526;GEM082;True sample;Cultivated sponge;07. T3;G-EM_F+PB;G-EM;F+PB
+e4048518527;GEM094;True sample;Cultivated sponge;08. T4;G-EM_F-PB;G-EM;F-PB
+e4048518528;GEM106;True sample;Cultivated sponge;08. T4;G-EM_F+PB;G-EM;F+PB
+e4048518529;GEM118;True sample;Cultivated sponge;09. T5;G-EM_F-PB;G-EM;F-PB
+e4048518530;GEM130;True sample;Cultivated sponge;09. T5;G-EM_F+PB;G-EM;F+PB
+e4048518532;GEM142;True sample;Cultivated sponge;10. T6;G-EM_F-PB;G-EM;F-PB
+e4048518533;GEM154;True sample;Cultivated sponge;10. T6;G-EM_F+PB;G-EM;F+PB
+e4048518534;GEM024;True sample;Cultivated sponge;06. T2;G+EM_F-PB;G+EM;F-PB
+e4048518535;GEM048;True sample;Cultivated sponge;07. T3;G+EM_F-PB;G+EM;F-PB
+e4048518536;GEM072;True sample;Cultivated sponge;07. T3;G-EM_F-PB;G-EM;F-PB
+e4048518537;GEM096;True sample;Cultivated sponge;08. T4;G-EM_F-PB;G-EM;F-PB
+e4048518538;GEM120;True sample;Cultivated sponge;09. T5;G-EM_F-PB;G-EM;F-PB
+e4048518539;GEM144;True sample;Cultivated sponge;10. T6;G-EM_F-PB;G-EM;F-PB
+e4048518540;FRE_B015;True sample;In situ maternal sponge;01. T-3;NA;NA;NA
+e4048518541;FRE_B063;True sample;In situ maternal sponge;03. T-1;NA;NA;NA
+e4048518544;GEM145;True sample;Cultivated sponge;10. T6;G+EM_F+PB;G+EM;F+PB
+e4048518545;GEM005;True sample;Gemmule;04. T0;G+EM;G+EM;NA
+e4048518546;GEM029;True sample;Cultivated sponge;05. T1;G-EM_F-PB;G-EM;F-PB
+e4048518547;GEM053;True sample;Cultivated sponge;06. T2;G-EM_F-PB;G-EM;F-PB
+e4048518548;GEM077;True sample;Cultivated sponge;07. T3;G+EM_F+PB;G+EM;F+PB
+e4048518549;GEM101;True sample;Cultivated sponge;08. T4;G+EM_F+PB;G+EM;F+PB
+e4048518550;GEM125;True sample;Cultivated sponge;09. T5;G+EM_F+PB;G+EM;F+PB
+e4048518551;GEM149;True sample;Cultivated sponge;10. T6;G+EM_F+PB;G+EM;F+PB
+e4048518552;FRE_B016;True sample;In situ maternal sponge;01. T-3;NA;NA;NA
+e4048518553;FRE_B064;True sample;In situ maternal sponge;03. T-1;NA;NA;NA
+e4048518556;GEM146;True sample;Cultivated sponge;10. T6;G+EM_F+PB;G+EM;F+PB
+e4048518558;GEM030;True sample;Cultivated sponge;05. T1;G-EM_F-PB;G-EM;F-PB
+e4048518559;GEM054;True sample;Cultivated sponge;06. T2;G-EM_F-PB;G-EM;F-PB
+e4048518560;GEM078;True sample;Cultivated sponge;07. T3;G+EM_F+PB;G+EM;F+PB
+e4048518561;GEM102;True sample;Cultivated sponge;08. T4;G+EM_F+PB;G+EM;F+PB
+e4048518562;GEM126;True sample;Cultivated sponge;09. T5;G+EM_F+PB;G+EM;F+PB
+e4048518563;GEM150;True sample;Cultivated sponge;10. T6;G+EM_F+PB;G+EM;F+PB
+e4048518564;FRE_B037;True sample;In situ maternal sponge;02. T-2;NA;NA;NA
+e4048518565;GEM181;True sample;Filtered freshwater;06. T2;NA ;NA ;NA
+e4048518568;GEM147;True sample;Cultivated sponge;10. T6;G+EM_F+PB;G+EM;F+PB
+e4048518569;GEM011;True sample;Gemmule;04. T0;G-EM;G-EM;NA
+e4048518571;GEM059;True sample;Cultivated sponge;06. T2;G+EM_F+PB;G+EM;F+PB
+e4048518572;GEM083;True sample;Cultivated sponge;07. T3;G-EM_F+PB;G-EM;F+PB
+e4048518573;GEM107;True sample;Cultivated sponge;08. T4;G-EM_F+PB;G-EM;F+PB
+e4048518575;GEM155;True sample;Cultivated sponge;10. T6;G-EM_F+PB;G-EM;F+PB
+e4048518576;FRE_B038;True sample;In situ maternal sponge;02. T-2;NA;NA;NA
+e4048518577;GEM182;True sample;Filtered freshwater;07. T3;NA ;NA ;NA
+e4048518581;GEM012;True sample;Gemmule;04. T0;G-EM;G-EM;NA
+e4048518582;GEM036;True sample;Cultivated sponge;05. T1;G+EM_F+PB;G+EM;F+PB
+e4048518583;GEM060;True sample;Cultivated sponge;06. T2;G+EM_F+PB;G+EM;F+PB
+e4048518584;GEM084;True sample;Cultivated sponge;07. T3;G-EM_F+PB;G-EM;F+PB
+e4048518585;GEM108;True sample;Cultivated sponge;08. T4;G-EM_F+PB;G-EM;F+PB
+e4048518586;GEM132;True sample;Cultivated sponge;09. T5;G-EM_F+PB;G-EM;F+PB
+e4048518587;GEM156;True sample;Cultivated sponge;10. T6;G-EM_F+PB;G-EM;F+PB
+e4048518588;FRE_B039;True sample;In situ maternal sponge;02. T-2;NA;NA;NA
+e4048518589;GEM183;True sample;Filtered freshwater;08. T4;NA ;NA ;NA
+e4048518592;GEM151;True sample;Cultivated sponge;10. T6;G-EM_F+PB;G-EM;F+PB
+e4048518593;GEM017;True sample;Cultivated sponge;05. T1;G+EM_F-PB;G+EM;F-PB
+e4048518594;GEM041;True sample;Cultivated sponge;05. T1;G-EM_F+PB;G-EM;F+PB
+e4048518595;GEM065;True sample;Cultivated sponge;06. T2;G-EM_F+PB;G-EM;F+PB
+e4048518596;GEM089;True sample;Cultivated sponge;08. T4;G+EM_F-PB;G+EM;F-PB
+e4048518597;GEM113;True sample;Cultivated sponge;09. T5;G+EM_F-PB;G+EM;F-PB
+e4048518598;GEM137;True sample;Cultivated sponge;10. T6;G+EM_F-PB;G+EM;F-PB
+e4048518599;GEM_EB1;Control;Extraction_blank;NA;NA;NA;NA
+e4048518600;FRE_B040;True sample;In situ maternal sponge;02. T-2;NA;NA;NA
+e4048518601;GEM184;True sample;Filtered freshwater;09. T5;NA ;NA ;NA
+e4048518604;GEM152;True sample;Cultivated sponge;10. T6;G-EM_F+PB;G-EM;F+PB
+e4048518605;GEM018;True sample;Cultivated sponge;05. T1;G+EM_F-PB;G+EM;F-PB
+e4048518607;GEM066;True sample;Cultivated sponge;06. T2;G-EM_F+PB;G-EM;F+PB
+e4048518608;GEM090;True sample;Cultivated sponge;08. T4;G+EM_F-PB;G+EM;F-PB
+e4048518609;GEM114;True sample;Cultivated sponge;09. T5;G+EM_F-PB;G+EM;F-PB
+e4048518610;GEM138;True sample;Cultivated sponge;10. T6;G+EM_F-PB;G+EM;F-PB
+e4048518611;FRE_B013;True sample;In situ maternal sponge;01. T-3;NA;NA;NA
+e4048518612;FRE_B061;True sample;In situ maternal sponge;03. T-1;NA;NA;NA
+e4048518613;GEM_EB2;Control;Extraction_blank;NA;NA;NA;NA
+e4048518617;GEM023;True sample;Cultivated sponge;06. T2;G+EM_F-PB;G+EM;F-PB
+e4048518618;GEM047;True sample;Cultivated sponge;07. T3;G+EM_F-PB;G+EM;F-PB
+e4048518619;GEM071;True sample;Cultivated sponge;07. T3;G-EM_F-PB;G-EM;F-PB
+e4048518620;GEM095;True sample;Cultivated sponge;08. T4;G-EM_F-PB;G-EM;F-PB
+e4048518621;GEM119;True sample;Cultivated sponge;09. T5;G-EM_F-PB;G-EM;F-PB
+e4048518622;GEM143;True sample;Cultivated sponge;10. T6;G-EM_F-PB;G-EM;F-PB
+e4048518623;FRE_B014;True sample;In situ maternal sponge;01. T-3;NA;NA;NA
+e4048518624;FRE_B062;True sample;In situ maternal sponge;03. T-1;NA;NA;NA
+e4048518627;GEM_NC;Control;Negative_control;NA;NA;NA;NA
